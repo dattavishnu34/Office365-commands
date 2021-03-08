@@ -1,4 +1,8 @@
 name:vishnu Datta dev2
 age:21
 city:ladakh
+<<<<<<< HEAD
 Added by viishhnu from local machine
+
+added changes from remotmachine
+d66d825ecde3bff7bf88fa02153d3363fce2b16d
